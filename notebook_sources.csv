@@ -1,0 +1,48 @@
+notebook,canvas_item,canvas_title,drive_file_id
+01_intro/01_1_Intro_to_Notebooks.ipynb,assignment 78928,01.1 Intro to Notebooks,1xjivweHV9bk5JiHqFp7Zt6-66NuZdwKZ
+01_intro/01_2_Hello_World.ipynb,assignment 78929,01.2 Introduction Exercise - Hello World,19CDG6UwwC_hsIjrNcXFm6RREwhydTYWU
+02_data_types_operators/02_1_1_Data_Types_and_Type_Errors.ipynb,assignment 78930,02.1.1 Data Types and Type Errors,1Wgnd_ujQQtRxUMR_8xpf2kYVRwrJcGkw
+02_data_types_operators/02_4_1_Intro_to_Operators.ipynb,assignment 78931,02.4.1 Intro to Operators,1K8cK97oa0fKwLxqCiL4Gex5Dj2Qgtei7
+02_data_types_operators/02_4_9_Applying_Data_Types_and_Operators.ipynb,assignment 78932,02.4.9 Applying Data Types and Operators,1XrJ9ITzDY616Fu-XkC7sL6VouEc79Wcy
+02_data_types_operators/02_5_1_Review_Modulus_Floor_Division.ipynb,link,02.5.1 Review Modulus Floor Division,1XVHYfmikVCOypYTC3cbNWLt745AeQYFk
+02_data_types_operators/02_9_Chapter_2_Quiz_Practice.ipynb,link,02.9 Chapter 2 Quiz Practice,1Gyg2x1Jw-5tlOgEu8Hjmw1QPC-xhaU4y
+03_loops_conditionals/03_1_0_For_Loops_Reading_Discussion.ipynb,link,3.1.0 For Loops - Reading Response Discussion,10q6ISNgNUiQdECWnOnvlUkVWTPGeki5B
+03_loops_conditionals/03_1_1_Intro_to_For_Loops.ipynb,assignment 78933,03.1.1 Loops - Intro to For Loops,1y16Q6U64q5DAPxKSJltIU9xyizdkuArI
+03_loops_conditionals/03_1_2_Basic_Loop_Practice.ipynb,assignment 78934,03.1.2 For Loops - Basic Loop Practice,1M61d1Cb_g6deNq-DRez-uopQb9Ic_RNQ
+03_loops_conditionals/03_1_9_Nested_For_Loops_Challenge.ipynb,link,Optional Challenge - 03.1.9 Nested For Loops (copy),1VE3YGZgfiH_8MvmqCFRb94HdfC_XqypN
+03_loops_conditionals/03_2_1_Conditionals_Intro.ipynb,assignment 78935,03.2.1 Conditionals - Introduction,1LVg6n-Z72kRH3MFk6twxlYMYr3c0NH_D
+03_loops_conditionals/03_2_0_Conditionals_While_Reading_Discussion.ipynb,link,RR 3.2-3.3 Discussion Notebook,1C2zLZltjP1PNKCjo8dSwY-8bKMF92rAA
+03_loops_conditionals/03_3_1_While_Loops.ipynb,assignment 78936,03.3.1 While Loops,1RUD0zHPHEjfIekPc7QCAE1_-wKTCHMvl
+03_loops_conditionals/03_7_1_Loop_Review_Problems.ipynb,assignment 78937,03.7.1 Loop Review Problems,1kXVUgWUEXtqsVMOWXwcW1WEbehrckhLT
+03_loops_conditionals/03_9_2_Simple_Programs_Conversions.ipynb,assignment 78938,03.9.2 Simple Programs - Conversions,1m9x1avy5Xmk3fOR_7J2EFaKWtLJCgJF8
+03_loops_conditionals/03_9_3_Simple_Programs_Calculators.ipynb,assignment 78939,03.9.3 Simple Programs - Calculators,1wL0GrCgsLVvhuMLt9Q-Vvob7c-SJKGoB
+03_loops_conditionals/03_9_4_Simple_Programs_Temperature_Logger.ipynb,assignment 78940,03.9.4 Simple Programs - Temperature Logger,15TD0HrgvCu_y57zLVZygXZN838HR4BQY
+03_loops_conditionals/03_9_5_Temperature_Grapher_Challenge.ipynb,link,Optional Challenge - 03.9.5 Temperature Grapher,18dHE_ptGaNDpm4HAvzAVMFhfWZ5dxMXr
+04_functions/04_1_Function_Calls.ipynb,assignment 78941,04.1 Functions - Function Calls Exercise,16UaAauFaRcpssWtyNI1c3UQmG7HhxONp
+04_functions/04_2_Built_In_Functions.ipynb,assignment 78942,04.2 Functions - Built In Function Exercise,1NIAZxNuCeoyIJ5iTvhJsf9USzid-eGSE
+04_functions/04_3_0_Reading_Discussion.ipynb,page textbook-4dot3-reading-response-discussion-notebook-percent-c2-percent-a0,Textbook 4.3 - Reading Response Discussion Notebook,1UyaqoVa2oLyhL-6e5XLZfRTO8GPye6GP
+04_functions/04_3_2_Defining_Functions_Review.ipynb,assignment 78943,04.3.2 Functions - Defining Function Review,1wugYkY_NrTBtNgBlWC4ho82l4fP7h6_l
+04_functions/04_9_1_Square_Pizza.ipynb,assignment 78944,04.9.1 Functions - Square Pizza Exercise,1nsCoKLdFDX7-TUpJPuWfcs32hKNViKAp
+04_functions/04_9_2_Characterize_a_Book.ipynb,assignment 78945,04.9.2 Functions - Characterize a Book Exercise,1pGLijS6SGZOeSluYFMXvVPWw9laaaydO
+04_functions/04_9_7_1_Simple_Game_Functions.ipynb,assignment 78946,04.9.7.1 Review - Simple Game Functions,17dddlXmTK8RXckgpQRIqYEakoxrWx1JJ
+04_functions/04_9_7_2_Simple_Game_Guppies.ipynb,assignment 78947,04.9.7.2 Review - Simple Game - Guppies,1cWRwIRFo3JRJ7eKNigdD2i4ATAlL79qQ
+04_functions/04_9_7_3_Guppies_Class_Copy.ipynb,page in-class-percent-3aclass-copy-of-guppies-exercise,In Class:Class Copy of Guppies Exercise,1fHOir4cnRiAeMjU5Re7EA874AajC9lKm
+05_strings_lists/05_1_1_More_String_Practice.ipynb,assignment 78948,05.1.1 Strings - More String Practice,1vKhfSrnNYUHwgaDUjAOZcjDKg_LV8_G9
+05_strings_lists/05_1_2_Email_Generator.ipynb,assignment 78949,05.1.2 Strings Exercise - Email Generator,1IbQk7e5IK3IDJN5N_k1ceAPXs3-LkeTM
+05_strings_lists/05_1_4_Password_Reset.ipynb,assignment 78950,05.1.4 Strings Exercise - Password Reset,1zl6IKOyVIrkLCl3ncViIz0MHc9vUBka3
+05_strings_lists/05_2_1_Intro_to_Lists.ipynb,assignment 78951,05.2.1 List Exercise - Intro to Lists,1v4yN6_e9ExxjYyCgcdGHB7BcsvAw2Mx_
+05_strings_lists/05_2_2_Working_with_Multiple_Lists.ipynb,assignment 78952,05.2.2 Lists - Working with Multiple Lists,1HojOSN2ayiCPMRfLo71oPg1uvnN4jb_b
+05_strings_lists/05_2_4_US_Populations.ipynb,assignment 78953,05.2.4 List and Strings Exercise - US Populations,1TzBD-dEEz4VEclqGC_LJtlaJlwby3zqq
+05_strings_lists/05_2_5_Gradebook.ipynb,assignment 78954,05.2.5 Gradebook,1lXeQ6na03mvq-ryICRXfjN7NbrTSDKEs
+06_series/06_1_1_Intro_to_Series_Majors.ipynb,assignment 78955,06.1.1 Intro to Series Exercises - Majors,1iL8b5dgCEfZCfJ-tiqbCOL0qg14c75cm
+06_series/06_5_0_Series_Strings_Tutorial.ipynb,link,6.5.0 Series - Strings - In Class Tutorial - Notebook,19atac37AJ8U3FGVFbavwyxxMlpnsjMno
+06_series/06_5_1_Series_Strings_Oscars.ipynb,assignment 78956,06.5.1 Series String Exercise - Oscars,1ZWp6N22P-WlxcYsv90SDJG5ugx6JqymL
+06_series/06_6_1_Series_Grouping_NFL.ipynb,assignment 78957,06.6.1 Series - Grouping - Exercise - NFL,1RSHSPsNPd1ug2O8N0aXOTssf-c--HbA2
+07_dataframes/07_1_1_Intro_to_Broadway.ipynb,assignment 78958,"07.1.1 Dataframes Exercise, Intro to Broadway",1pgll7oNdfzLXOoqWol0rOixkYeA7aOfL
+07_dataframes/07_4_1_Titanic_Part_1.ipynb,assignment 78959,07.4.1 Dataframes Exercise - Titanic Part 1,1q1I1H_OnDkl4Lg9j9xHxuUllYY9sBqzp
+09_data_vis/09_0_2_Basic_Plotting.ipynb,assignment 78960,09.0.2 Visualization - Exercise - Basic Plotting,1MQ4CztzZjMAshXB6-grSnGgIFqAJMNmH
+09_data_vis/09_0_3_State_Crime.ipynb,assignment 78961,09.0.3 Visualization - Exercise - State Crime,1tzXVDW5cj7f04_X-o-3CcbKlEbmKz3D-
+09_data_vis/09_0_4_Terrible_Plots.ipynb,assignment 78962,09.0.4 Visualization - Exercise - Terrible Plots,1_uyTnC1mIJOUxRnkstSwT9kUmbjegT9W
+09_data_vis/09_1_1_COVID_McLean_County.ipynb,assignment 78963,09.1.1 Visualization - Exercise - COVID McLean County,1hI3dt7y6VQTgk0JhHiD35lIm4qvQGFKo
+10_data_cleaning/10_3_1_Homicides_Part_1.ipynb,assignment 78964,"10.3.1 - Data Cleaning - Homicides, Part 1",1q5nmlJtd8Tr-WpIZX-YTI3zft7SBexSX
+10_data_cleaning/10_3_2_Homicides_Part_2.ipynb,assignment 78965,"10.3.2 - Data Cleaning - Homicides, Part 2",1pA7u_sVz2ipv7dNcTf7TD3Qi46pxSdWa
