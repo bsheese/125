@@ -12,10 +12,9 @@ Course materials for CS/DS 125 at Illinois Wesleyan University, taught by Brad S
 | [04_functions](04_functions/) | 4 | Calling functions, importing modules, defining functions, a small betting game |
 | [05_strings_lists](05_strings_lists/) | 5.1, 5.2 | String methods, lists, working with several lists at once, reading a data file |
 | [06_series](06_series/) | 6 | pandas Series: labels and lookups, whole-column work, descriptive statistics, text, grouping, with optional older exercises numbered 06.9.x |
-| [07_dataframes](07_dataframes/) | 7 | DataFrames: first look, selecting rows, spotting problems, groups and crosstabs |
-| [08_data_vis](08_data_vis/) | 9 | Charts with seaborn: basic charts and choosing a chart |
+| [07_dataframes](07_dataframes/) | 7, 10 | DataFrames: first look, selecting rows, spotting problems, groups and crosstabs, with optional older exercises numbered 07.9.x |
+| [08_data_vis](08_data_vis/) | 8, 9 | Charts with seaborn, correlation and choosing a chart, with optional older exercises numbered 08.9.x |
 | [pair_activities](pair_activities/) | | Notebooks for the in-class pair activities in modules 06 to 08 |
-| [09_data_vis](09_data_vis/) | 9 | Older plotting exercises |
 | [10_data_cleaning](10_data_cleaning/) | 10 | Optional: cleaning a messy dataset |
 
 Most notebooks are exercises: the student makes a copy in Drive, fills in the code cells and submits a short response form at the end. A few are reading-response discussion notebooks (`*_Reading_Discussion`) or in-class tutorials. Optional challenge notebooks have `Challenge` in the name.

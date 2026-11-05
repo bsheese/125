@@ -38,11 +38,11 @@ notebook,canvas_item,canvas_title,drive_file_id
 06_series/06_9_2_Series_Strings_Tutorial.ipynb,optional practice,6.5.0 Series - Strings - In Class Tutorial - Notebook,19atac37AJ8U3FGVFbavwyxxMlpnsjMno
 06_series/06_9_3_Series_Strings_Oscars.ipynb,optional practice,06.5.1 Series String Exercise - Oscars,1ZWp6N22P-WlxcYsv90SDJG5ugx6JqymL
 06_series/06_9_4_Series_Grouping_NFL.ipynb,optional practice,06.6.1 Series - Grouping - Exercise - NFL,1RSHSPsNPd1ug2O8N0aXOTssf-c--HbA2
-07_dataframes/07_1_1_Intro_to_Broadway.ipynb,assignment 78958,"07.1.1 Dataframes Exercise, Intro to Broadway",1pgll7oNdfzLXOoqWol0rOixkYeA7aOfL
-07_dataframes/07_4_1_Titanic_Part_1.ipynb,assignment 78959,07.4.1 Dataframes Exercise - Titanic Part 1,1q1I1H_OnDkl4Lg9j9xHxuUllYY9sBqzp
-09_data_vis/09_0_2_Basic_Plotting.ipynb,assignment 78960,09.0.2 Visualization - Exercise - Basic Plotting,1MQ4CztzZjMAshXB6-grSnGgIFqAJMNmH
-09_data_vis/09_0_3_State_Crime.ipynb,assignment 78961,09.0.3 Visualization - Exercise - State Crime,1tzXVDW5cj7f04_X-o-3CcbKlEbmKz3D-
-09_data_vis/09_0_4_Terrible_Plots.ipynb,assignment 78962,09.0.4 Visualization - Exercise - Terrible Plots,1_uyTnC1mIJOUxRnkstSwT9kUmbjegT9W
-09_data_vis/09_1_1_COVID_McLean_County.ipynb,assignment 78963,09.1.1 Visualization - Exercise - COVID McLean County,1hI3dt7y6VQTgk0JhHiD35lIm4qvQGFKo
+07_dataframes/07_9_1_Broadway.ipynb,optional practice,"07.1.1 Dataframes Exercise, Intro to Broadway",1pgll7oNdfzLXOoqWol0rOixkYeA7aOfL
+07_dataframes/07_9_2_Titanic.ipynb,optional practice,07.4.1 Dataframes Exercise - Titanic Part 1,1q1I1H_OnDkl4Lg9j9xHxuUllYY9sBqzp
+08_data_vis/08_9_1_Basic_Plotting.ipynb,optional practice,09.0.2 Visualization - Exercise - Basic Plotting,1MQ4CztzZjMAshXB6-grSnGgIFqAJMNmH
+08_data_vis/08_9_2_State_Crime.ipynb,optional practice,09.0.3 Visualization - Exercise - State Crime,1tzXVDW5cj7f04_X-o-3CcbKlEbmKz3D-
+08_data_vis/08_9_3_Terrible_Plots.ipynb,optional practice,09.0.4 Visualization - Exercise - Terrible Plots,1_uyTnC1mIJOUxRnkstSwT9kUmbjegT9W
+08_data_vis/08_9_4_COVID_McLean_County.ipynb,optional practice,09.1.1 Visualization - Exercise - COVID McLean County,1hI3dt7y6VQTgk0JhHiD35lIm4qvQGFKo
 10_data_cleaning/10_3_1_Homicides_Part_1.ipynb,assignment 78964,"10.3.1 - Data Cleaning - Homicides, Part 1",1q5nmlJtd8Tr-WpIZX-YTI3zft7SBexSX
 10_data_cleaning/10_3_2_Homicides_Part_2.ipynb,assignment 78965,"10.3.2 - Data Cleaning - Homicides, Part 2",1pA7u_sVz2ipv7dNcTf7TD3Qi46pxSdWa
