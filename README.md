@@ -11,7 +11,7 @@ Course materials for CS/DS 125 at Illinois Wesleyan University, taught by Brad S
 | [03_loops_conditionals](03_loops_conditionals/) | 3 | For loops, conditionals, while loops, Booleans and loop control, simple programs |
 | [04_functions](04_functions/) | 4 | Calling functions, importing modules, defining functions, a small betting game |
 | [05_strings_lists](05_strings_lists/) | 5.1, 5.2 | String methods, lists, working with several lists at once, reading a data file |
-| [06_series](06_series/) | 6 | pandas Series: labels and lookups, whole-column work, descriptive statistics, text |
+| [06_series](06_series/) | 6 | pandas Series: labels and lookups, whole-column work, descriptive statistics, text, grouping, with optional older exercises numbered 06.9.x |
 | [07_dataframes](07_dataframes/) | 7 | DataFrames: first look, selecting rows, spotting problems, groups and crosstabs |
 | [08_data_vis](08_data_vis/) | 9 | Charts with seaborn: basic charts and choosing a chart |
 | [pair_activities](pair_activities/) | | Notebooks for the in-class pair activities in modules 06 to 08 |
