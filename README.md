@@ -1,6 +1,6 @@
 # CS/DS 125: Introduction to Computer and Data Science
 
-Course materials for CS/DS 125 at Illinois Wesleyan University, taught by Brad Sheese. The course teaches Python from the beginning (data types, loops, conditionals, functions, strings and lists) and then moves into pandas Series, DataFrames, plotting and basic data cleaning. It assumes no programming experience. The readings come from the course textbook, [snakebear.science](https://snakebear.science), and the folder numbers below follow its chapter numbers.
+Course materials for CS/DS 125 at Illinois Wesleyan University, taught by Brad Sheese. The course teaches Python from the beginning (data types, loops, conditionals, functions, strings and lists) and then moves into pandas Series, DataFrames and plotting. It assumes no programming experience. The readings come from the course textbook, [snakebear.science](https://snakebear.science), and the folder numbers below follow its chapter numbers.
 
 ## Modules
 
@@ -16,7 +16,6 @@ Course materials for CS/DS 125 at Illinois Wesleyan University, taught by Brad S
 | [08_data_vis](08_data_vis/) | 8, 9 | Choosing and reading charts: categories, one numeric column, comparing groups, two numeric columns, change over time, and fixing misleading charts |
 | [data](data/) | | Datasets for module 08, with their origins |
 | [pair_activities](pair_activities/) | | Notebooks for the in-class pair activities in modules 06 to 08 |
-| [10_data_cleaning](10_data_cleaning/) | 10 | Optional: cleaning a messy dataset |
 
 Most notebooks are exercises: the student makes a copy in Drive, fills in the code cells and submits a short response form at the end. A few are reading-response discussion notebooks (`*_Reading_Discussion`) or in-class tutorials. Optional challenge notebooks have `Challenge` in the name.
 
