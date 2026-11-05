@@ -13,7 +13,8 @@ Course materials for CS/DS 125 at Illinois Wesleyan University, taught by Brad S
 | [05_strings_lists](05_strings_lists/) | 5.1, 5.2 | String methods, lists, working with several lists at once, reading a data file |
 | [06_series](06_series/) | 6 | pandas Series: labels and lookups, whole-column work, descriptive statistics, text, grouping, with optional older exercises numbered 06.9.x |
 | [07_dataframes](07_dataframes/) | 7, 10 | DataFrames: first look, selecting rows, spotting problems, groups and crosstabs, with optional older exercises numbered 07.9.x |
-| [08_data_vis](08_data_vis/) | 8, 9 | Charts with seaborn, correlation and choosing a chart, with optional older exercises numbered 08.9.x |
+| [08_data_vis](08_data_vis/) | 8, 9 | Choosing and reading charts: categories, one numeric column, comparing groups, two numeric columns, change over time, and fixing misleading charts |
+| [data](data/) | | Datasets for module 08, with their origins |
 | [pair_activities](pair_activities/) | | Notebooks for the in-class pair activities in modules 06 to 08 |
 | [10_data_cleaning](10_data_cleaning/) | 10 | Optional: cleaning a messy dataset |
 

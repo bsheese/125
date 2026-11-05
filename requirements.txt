@@ -6,7 +6,7 @@ pandas==3.0.1
 numpy==2.4.3
 matplotlib==3.10.8
 seaborn==0.13.2
-scipy==1.18.1  # for .corr(method="spearman") in 08.2
+scipy==1.18.1  # for .corr(method="spearman") in 08.5
 requests==2.34.2
 ipywidgets==8.1.7   # cs125_tools builds the exercise response form with ipywidgets
 jupyterlab==4.5.6
