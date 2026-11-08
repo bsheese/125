@@ -17,7 +17,7 @@ Course materials for CS/DS 125 at Illinois Wesleyan University, taught by Brad S
 | [data](data/) | | Datasets for module 08, with their origins |
 | [pair_activities](pair_activities/) | | Notebooks for the in-class pair activities in modules 06 to 08 |
 
-Most notebooks are exercises: the student makes a copy in Drive, fills in the code cells and submits a short response form at the end. A few are reading-response discussion notebooks (`*_Reading_Discussion`) or in-class tutorials. Optional challenge notebooks have `Challenge` in the name.
+Most notebooks are exercises: the student makes a copy in Drive and fills in the code cells. A few are reading-response discussion notebooks (`*_Reading_Discussion`) or in-class tutorials. Optional challenge notebooks have `Challenge` in the name.
 
 ## Where the notebooks come from
 
@@ -25,9 +25,9 @@ Students currently open these notebooks from Colab links on Canvas, and those li
 
 Saved outputs were cleared on import, the same convention as the 225 repository, so students run each cell themselves.
 
-## How the notebooks get their tools and data
+## How the notebooks get their data
 
-The "Getting started" cell at the top of each exercise clones [bsheese/cs125_tools](https://github.com/bsheese/cs125_tools), which provides the response form (`exercise_report_response`). The form posts to a Google Form only when the student ticks the "Ready" box and runs the submit cell. Datasets are downloaded from [bsheese/CSDS125ExampleData](https://github.com/bsheese/CSDS125ExampleData).
+The "Getting started" cell at the top of each exercise imports what the notebook needs and, where the exercise uses a dataset, downloads it from [bsheese/CSDS125ExampleData](https://github.com/bsheese/CSDS125ExampleData). The exercises used to end with a response form that posted to a Google Form through [bsheese/cs125_tools](https://github.com/bsheese/cs125_tools); that code was removed on 2026-11-08, so nothing in these notebooks submits anything.
 
 ## Running locally
 

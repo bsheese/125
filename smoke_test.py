@@ -24,15 +24,9 @@ notebooks are exercises rather than finished teaching notebooks:
   The exit status is non-zero only for "check" errors (or a static-check
   problem), so a clean run means "nothing broke that a student did not
   cause". It does not mean every cell ran.
-- The "Getting started" cell clones github.com/bsheese/cs125_tools into
-  /content/ (the Colab working directory). This script clones that repo once
-  into a temp dir and rewrites the path in each temp copy so the import
-  works locally. The committed notebooks are never modified.
+- The committed notebooks are never modified; each run works on temp copies.
 - Colab has wget and macOS usually doesn't, so `!wget URL` lines are
   rewritten to `!curl -sSLO URL` in the temp copy.
-- The response-form cells post to Google Forms only when a student ticks
-  "Ready" (default False) or fills in the survey fields, so an unattended
-  run does not submit anything. Keep that true when editing those cells.
 
 Usage:
     python smoke_test.py                  # static check, then execute everything
@@ -218,13 +212,11 @@ def clear_outputs(nbs):
 
 
 EXPECTED_ERRORS = {"NameError", "SyntaxError", "IndentationError", "StdinNotImplementedError"}
-COLAB_TOOL_PATH = "/content/cs125_tools/"
-TOOLS_REPO = "https://github.com/bsheese/cs125_tools.git"
 
 
-def prepare_copy(src_text, tools_dir):
-    """Notebook text for the temp copy: local tools path, curl for wget, skipped cells."""
-    nb = json.loads(src_text.replace(COLAB_TOOL_PATH, f"{tools_dir}/"))
+def prepare_copy(src_text):
+    """Notebook text for the temp copy: curl for wget, skipped cells."""
+    nb = json.loads(src_text)
     for c in nb["cells"]:
         if c["cell_type"] != "code":
             continue
@@ -311,18 +303,13 @@ def main():
         # See public/225/smoke_test.py for why nbconvert runs as
         # `sys.executable -m nbconvert` with an empty JUPYTER_DATA_DIR.
         env = dict(os.environ, JUPYTER_DATA_DIR=str(tmp / "jupyter_data"))
-        tools_dir = tmp / "cs125_tools"
-        clone = subprocess.run(["git", "clone", "--quiet", TOOLS_REPO, str(tools_dir)],
-                               capture_output=True, text=True)
-        if clone.returncode != 0:
-            print(f"Could not clone {TOOLS_REPO}; the Getting started cells will fail.\n{clone.stderr}")
         for i, nb in enumerate(nbs, 1):
             print(f"[{i}/{len(nbs)}] {nb} ... ", end="", flush=True)
             start = time.time()
             work_dir = tmp / str(nb).replace("/", "__")
             work_dir.mkdir()
             nb_copy = work_dir / nb.name
-            nb_copy.write_text(prepare_copy((ROOT / nb).read_text(), tools_dir))
+            nb_copy.write_text(prepare_copy((ROOT / nb).read_text()))
             try:
                 proc = subprocess.run(
                     [sys.executable, "-m", "nbconvert", "--to", "notebook",
